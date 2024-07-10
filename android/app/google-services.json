@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427380973547",
+    "project_id": "location-with-mastercard",
+    "storage_bucket": "location-with-mastercard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427380973547:android:910c96fdca8f00e67903ae",
+        "android_client_info": {
+          "package_name": "com.example.location_with_mastercard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmad3YzYnhTS-sBZrhDFZNsX1HYrX6qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
